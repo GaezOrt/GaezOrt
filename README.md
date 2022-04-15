@@ -8,4 +8,4 @@ I'm a full stack developer.
 
 ## Projects in Node JS:
 
-* [Animated characters](https://github.com/GaezOrt/project-backend) ![alt text](https://midu.dev/images/tags/node.png "Node JS")
+* [Animated characters](https://github.com/GaezOrt/project-backend) <img src="https://midu.dev/images/tags/node.png" width="25" height="25">
