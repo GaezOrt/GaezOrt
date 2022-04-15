@@ -3,4 +3,4 @@ I'm a full stack developer.
 
 ## Projects in React Native:
 
-* [Animated characters]() ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/20px-React-icon.svg.png "Logo Title Text 1")
+* [Animated characters](https://github.com/GaezOrt/project1-frontend) ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/20px-React-icon.svg.png "React Native")
