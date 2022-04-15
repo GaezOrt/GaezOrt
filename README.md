@@ -8,4 +8,4 @@ I'm a full stack developer.
 
 ## Projects in Node JS:
 
-* [Animated characters](https://github.com/GaezOrt/project-backend) ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png "React Native")
+* [Animated characters](https://github.com/GaezOrt/project-backend) ![alt text](https://midu.dev/images/tags/node.png "Node JS")
