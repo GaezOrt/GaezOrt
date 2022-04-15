@@ -1,3 +1,6 @@
 # Hello World 👋 It's Gaston Ortega!
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-sssas
+I'm a full stack developer.
+
+##Projects in React Native:
+
+
